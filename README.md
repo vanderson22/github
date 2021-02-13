@@ -1,4 +1,7 @@
 github
 ======
+C# Repo 
+aplicação completa mvc apontando para o localdb do visual studio
 
-apache - camel CXF com SOAP 1.1 e 1.2 e Spring boot
+Créditos microsoft: 
+https://docs.microsoft.com/pt-br/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application
